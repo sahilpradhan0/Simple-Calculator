@@ -18,7 +18,12 @@ body{
     background-color: rgb(166, 176, 176);
     height: 50px;
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    flex-wrap: wrap;
 }
 .btn,.displayZero{
     background-color: rgb(83, 80, 80);   
